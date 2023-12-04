@@ -34,7 +34,7 @@ You can run this code online at [https://www.mycompiler.io/view/LlEFN1GFbZ6].
 
 ## Contributing
 
-Contributions are welcome! If you have a feature request, bug report, or want to improve the code, please feel free to open an issue or submit a pull request. Please make sure to test your changes thoroughly before submitting.
+Contributions are welcome! If you have a feature request, bug report, or want to improve the code, please feel free to open an issue or submit a pull request.
 
 ## License
 
