@@ -4,7 +4,7 @@ This repository contains a simple R script that generates a plot of a flower wit
 
 ## Screenshots
 
-![image](https://github.com/akhi07rx/Petals-Using-R/assets/89210430/d583653f-f5c6-468b-9d6e-573697f21806)
+![image](https://i.imgur.com/zUn5eRh.png)
 
 ## Code Overview
 
